@@ -1,7 +1,7 @@
-# NFTstuff
+# Heatmap of Timestamp
 Some experiments with around NFT and the web3
 
-heatmap of timestamp -
+Heatmap of Timestamp -
 
 Based on the timestamps of the messages in an announcements discord channel, I made this heatmap; it can give an idea of when you can expect an announcements and even find the timezone of the user doing the announcements.
 
